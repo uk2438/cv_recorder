@@ -4,6 +4,7 @@ video recorder using OpenCV
 This program records video with the webcam on your laptop.
 
 **function:**
+
 esc: quit the record program.
 
 tab: You can switch mosaic ON/OFF. If you enter record mode, you can't switch mosaic mode. It must be switch in preview mode if you want.
